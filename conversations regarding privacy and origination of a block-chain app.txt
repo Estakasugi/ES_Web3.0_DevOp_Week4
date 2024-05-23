@@ -23,7 +23,7 @@ So, while there's no absolute guarantee against someone else using your open-sou
 Takasugi:
 In terms of the use of licenses, it is also futile in the realm of blockchain  applications since the malicious  distributors are anonymous
 
-## Copilot
+Copilot
 You're correct that enforcing open-source licenses can be more challenging in the blockchain space due to the anonymity of participants. However, it's important to note that while blockchain can provide a degree of anonymity, it's not absolute. Transactions and deployments on the blockchain are publicly visible, and in some cases, it may be possible to identify malicious actors.
 Moreover, the strength of open-source projects often lies in their communities. A project that is simply a copy of another without any added value or innovation is unlikely to gain much traction or support. The original project, with its active development and community support, will likely remain the more trusted and reputable choice.
 While the open-source model does have its challenges, especially in new areas like blockchain, it also has proven its resilience and adaptability over time. As the blockchain space continues to evolve, it's likely that new strategies and mechanisms for dealing with these issues will emerge.
